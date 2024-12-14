@@ -7,6 +7,8 @@ This project uses the following libraries.
 * Seaborn: `pip install seaborn`
 
 ## Demographic Data
+![IMG_4077](https://user-images.githubusercontent.com/65197541/138337341-06df4f22-95bc-4a04-8702-902508e33b53.PNG)![IMG_4078](https://user-images.githubusercontent.com/65197541/138337398-f621a64b-245c-426a-8462-5d49244b42d1.PNG)
+
 ### Patient Gender Breakdown by Race
 ![final gender breakdown by race](https://user-images.githubusercontent.com/65197541/138353056-d819745c-520b-4179-b912-27ee9a677ab5.png)
 
